@@ -1,7 +1,7 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Net;
 
-namespace Osc.Core.Tests;
+namespace OpenSoundControl.Core.Tests;
 
 [TestClass]
 public sealed class OscTests

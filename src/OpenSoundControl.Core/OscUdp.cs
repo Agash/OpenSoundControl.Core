@@ -4,7 +4,7 @@ using System.Runtime.CompilerServices;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Abstractions;
 
-namespace Osc.Core;
+namespace OpenSoundControl.Core;
 
 /// <summary>Sends OSC over UDP to one target, packing bundles so each datagram fits one Ethernet frame.</summary>
 public sealed class OscUdpSender : IDisposable

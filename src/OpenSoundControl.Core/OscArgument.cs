@@ -1,7 +1,7 @@
 using System.Collections.Immutable;
 using System.Globalization;
 
-namespace Osc.Core;
+namespace OpenSoundControl.Core;
 
 /// <summary>An OSC argument's type, by its type tag.</summary>
 public enum OscType

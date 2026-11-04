@@ -19,8 +19,8 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/Agash/Osc.Core</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/Agash/Osc.Core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Agash/OpenSoundControl.Core</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Agash/OpenSoundControl.Core</PackageProjectUrl>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <WarningsAsErrors Condition="'$(IsPackable)' == 'true'"
       >$(WarningsAsErrors);CS1591</WarningsAsErrors>

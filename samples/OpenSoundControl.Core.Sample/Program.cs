@@ -1,5 +1,5 @@
 using System.Net;
-using Osc.Core;
+using OpenSoundControl.Core;
 
 // Native AOT smoke test: route a message through the router over a loopback socket.
 using OscUdpReceiver receiver = new(0);

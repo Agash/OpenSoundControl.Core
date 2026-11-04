@@ -4,8 +4,8 @@
     <IsPackable>true</IsPackable>
     <IsAotCompatible>true</IsAotCompatible>
     <IsTrimmable>true</IsTrimmable>
-    <PackageId>Osc.Core</PackageId>
-    <Title>Osc.Core</Title>
+    <PackageId>OpenSoundControl.Core</PackageId>
+    <Title>OpenSoundControl.Core</Title>
     <Description>Open Sound Control for .NET: OSC 1.0 and 1.1 codec (messages, bundles, time tags, the common 1.1 types), address patterns, a router with typed protocol messages through static abstract members, and UDP sender and receiver. Native AOT compatible.</Description>
     <PackageTags>osc;open-sound-control;udp;vmc;vrchat;touchosc;show-control</PackageTags>
     <MinVerTagPrefix>v</MinVerTagPrefix>

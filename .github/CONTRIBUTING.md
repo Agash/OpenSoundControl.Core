@@ -5,9 +5,9 @@ Open an issue first for non-trivial changes so we can align on direction before 
 ## Build and test
 
 ```pwsh
-dotnet restore Osc.Core.slnx
-dotnet build Osc.Core.slnx
-dotnet test tests/Osc.Core.Tests/Osc.Core.Tests.csproj
+dotnet restore OpenSoundControl.Core.slnx
+dotnet build OpenSoundControl.Core.slnx
+dotnet test tests/OpenSoundControl.Core.Tests/OpenSoundControl.Core.Tests.csproj
 ```
 
 ## Releasing

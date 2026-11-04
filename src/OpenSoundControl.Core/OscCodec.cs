@@ -2,7 +2,7 @@ using System.Buffers.Binary;
 using System.Collections.Immutable;
 using System.Text;
 
-namespace Osc.Core;
+namespace OpenSoundControl.Core;
 
 /// <summary>
 /// OSC 1.0 packets with the OSC 1.1 common types (<c>h d t T F N I</c>): messages, and bundles flattened in order.

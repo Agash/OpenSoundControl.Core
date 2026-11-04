@@ -1,4 +1,4 @@
-# Osc.Core
+# OpenSoundControl.Core
 
 Open Sound Control for .NET 10 and 11, Native AOT compatible.
 

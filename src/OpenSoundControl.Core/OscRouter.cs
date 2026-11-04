@@ -1,7 +1,7 @@
 using System.Collections.Frozen;
 using System.Collections.Immutable;
 
-namespace Osc.Core;
+namespace OpenSoundControl.Core;
 
 /// <summary>
 /// An OSC 1.0 address pattern: <c>?</c> one character, <c>*</c> any run of characters within a part, <c>[abc]</c>,

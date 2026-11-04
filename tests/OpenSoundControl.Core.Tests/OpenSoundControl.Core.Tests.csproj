@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Osc.Core\Osc.Core.csproj" />
+    <ProjectReference Include="..\..\src\OpenSoundControl.Core\OpenSoundControl.Core.csproj" />
     <PackageReference Include="MSTest.TestFramework" />
     <PackageReference Include="MSTest.TestAdapter" />
     <PackageReference Include="Microsoft.Testing.Platform.MSBuild" />
